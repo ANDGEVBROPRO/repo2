@@ -1,3 +1,3 @@
 to add file/folder to a repositoria in github, using " git remote add origin 'HTTPS' "
 
-new text
+version 2
